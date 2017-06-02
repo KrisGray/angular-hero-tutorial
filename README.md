@@ -1,6 +1,6 @@
-# Pace
+# angular-hero-tutorial
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.6.
+This project is the angular tutorial (https://angular.io/docs/ts/latest/tutorial/) generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.6.
 
 ## Development server
 
